@@ -16,5 +16,9 @@ Contents
 
 .. toctree::
 
-   index
    base
+    /guides/authors
+    /guides/administrators
+    /guides/developers
+    /science
+    /examples
