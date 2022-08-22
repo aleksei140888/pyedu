@@ -19,4 +19,3 @@ Contents
     :caption: Features
     index
     base
-    /base/komp
