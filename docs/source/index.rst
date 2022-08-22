@@ -15,6 +15,6 @@ Contents
 --------
 
 .. toctree::
-
-   base
-   /base/komp
+    :maxdepth: 2
+    /base
+    /base/komp
