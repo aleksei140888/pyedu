@@ -17,8 +17,4 @@ Contents
 .. toctree::
 
    base
-    /guides/authors
-    /guides/administrators
-    /guides/developers
-    /science
-    /examples
+   /base/komp
