@@ -16,5 +16,7 @@ Contents
 
 .. toctree::
     :maxdepth: 2
-    /base
+    :caption: Features
+    index
+    base
     /base/komp
