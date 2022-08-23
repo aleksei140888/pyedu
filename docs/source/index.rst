@@ -9,12 +9,11 @@
 
 .. note::
 
-   This project is under active development.
+   Цей туторіал весь час в стані змін, тож якщо чогось немає то варто зачекати
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   base_learn
