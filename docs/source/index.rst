@@ -3,9 +3,9 @@
 
 **PythonEdu** це збірна солянка знань які можуть допомогти навчитися програмуванню на мові Python.
 
-`Офіційний сайт - Python <https://world.openfoodfacts.org/>`
+`Офіційний сайт - Python <https://www.python.org/>`
 
-Перший крок - :doc:`base`
+Перший крок - :doc:`base_learn`
 
 .. note::
 
@@ -17,3 +17,4 @@ Contents
 .. toctree::
 
    base_learn
+   1_part
